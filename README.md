@@ -17,7 +17,7 @@ This project utilizes **Zomato** restaurant data to uncover insights that contri
 ## ✨ Key Features  
 - **Top-Performing Restaurants**: Analysis of the most successful restaurants based on popularity, ratings, and revenue. Key factors include franchise visibility, menu diversity, and broad demographic appeal.
 - **Challenges for Underperforming Restaurants**: Identified factors contributing to lower success, such as lack of brand recognition, minimal customer engagement, and narrow menu offerings.
-- **Critical Success Factors**: Insights into what drives long-term success, including brand visibility, customer engagement, and menu diversification.
+- **Critical Success Factors**: Insights into what drives long-term success, including brand visibility, customer engagement, and menu diversity.
 - **Bar Charts & Filters**: Used bar charts to compare restaurant performance and filter data to address duplicates, ensuring clean and accurate analysis.
 
 ---
