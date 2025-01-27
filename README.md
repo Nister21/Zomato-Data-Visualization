@@ -30,5 +30,14 @@ This project utilizes **Zomato** restaurant data to uncover insights that contri
 
 ---
 
+## 📄 Project Documentation  
+
+1. For detailed documentation on the project, you can download the report here:  
+   [Download Project Report](./Documents/Project_Report.docx)  
+
+2. The Word document contains an in-depth analysis and insights from the data.
+
+---
+
 ## 📌 Conclusion  
 This project showcases my skills in using Tableau to analyze and visualize restaurant data, providing actionable insights that can drive business decisions and improve restaurant success. By leveraging data, I was able to identify both challenges and opportunities that restaurants can capitalize on to enhance their performance and revenue.
