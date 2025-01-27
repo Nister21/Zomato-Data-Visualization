@@ -10,8 +10,7 @@ This project utilizes **Zomato** restaurant data to uncover insights that contri
 
 ## 🛠️ Tools Used  
 - **Tableau**: Data visualization and dashboard creation  
-- **Excel**: Data cleaning and preparation (if applicable)  
-- **SQL**: Data extraction and joining (if applicable)  
+- **Excel**: Data cleaning and preparation
 
 ---
 
